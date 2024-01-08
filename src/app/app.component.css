@@ -1,0 +1,18 @@
+#glass-container {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    overflow: hidden;
+}
+  
+#calculator-screen {
+    background: linear-gradient(to bottom, #2c3e50, #34495e);
+}
+  
+#calculator-button:hover {
+    background: linear-gradient(to bottom, #e74c3c, #c0392b);
+    color: #fff;
+}
+  
+  
